@@ -1,16 +1,16 @@
 # CNN-on-CIFAR-Keras-Tensorflow
 CNN on CIFAR Keras Tensorflow Application
 # CIFAR-10, 32x32 colored images of 10 different obj., Airplane, car, etc
-# 0 airplane										
-# 1 automobile										
-# 2 bird										
-# 3 cat										
-# 4 deer										
-# 5 dog										
-# 6 frog										
-# 7 horse										
-# 8 ship										
-# 9 truck										
+ 0 airplane										
+ 1 automobile										
+ 2 bird										
+ 3 cat										
+ 4 deer										
+ 5 dog										
+ 6 frog										
+ 7 horse										
+ 8 ship										
+ 9 truck										
 ![cifar](https://user-images.githubusercontent.com/57037068/83808922-a3333900-a6c6-11ea-8fdd-ef3059c23913.PNG)
 
 Layer (type)                 Output Shape              Param #   
